@@ -27,6 +27,12 @@ small {
   text-transform: initial;
 }
 
+img {
+  margin-bottom: 20px;
+  width: 120px;
+  border-radius: 60px;
+}
+
 .separator {
   padding: 0 5px;
   color: #ccc;
