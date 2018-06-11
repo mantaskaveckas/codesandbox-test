@@ -27,7 +27,7 @@ export default class App extends Component {
         name="Mantas Kaveckas"
         position="Senior Frontend Engineer"
         mail="mantas.kaveckas@gmail.com"
-        linkedin="https://www.linkedin.com/mantaskaveckas"
+        linkedin="https://www.linkedin.com/in/mantaskaveckas"
         twitterName="@kaveckas"
         twitter="https://twitter.com/kaveckas"
       />
