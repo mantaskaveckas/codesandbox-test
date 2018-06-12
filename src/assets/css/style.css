@@ -16,6 +16,7 @@ small {
 }
 
 a {
+  text-decoration: none;
   display: inline-block;
   color: #000;
 }
