@@ -17,19 +17,19 @@ export default ({
       <small>{position}</small>
     </h1>
     <a href={`mailto:${mail}`}>
-      <i class="far fa-envelope" /> {mail}
+      <i className="far fa-envelope" /> {mail}
     </a>
     <span className="separator">|</span>
     <a target="_blank" rel="noopener noreferrer" href={twitter}>
-      <i class="fab fa-twitter" /> {twitterName}
+      <i className="fab fa-twitter" /> {twitterName}
     </a>
     <span className="separator">|</span>
     <a target="_blank" rel="noopener noreferrer" href={linkedin}>
-      <i class="fab fa-linkedin-in" />
+      <i className="fab fa-linkedin-in" />
     </a>
     <span className="separator">|</span>
     <a target="_blank" rel="noopener noreferrer" href={instagram}>
-      <i class="fab fa-instagram" />
+      <i className="fab fa-instagram" />
     </a>
   </div>
 );
