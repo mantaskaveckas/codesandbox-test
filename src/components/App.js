@@ -1,6 +1,6 @@
 import React, { Component } from "react";
 import ReactGA from "react-ga";
-import photo from "../assets/photo.jpg";
+import photo from "../assets/images/photo.jpg";
 import Card from "./Card";
 
 export default class App extends Component {
@@ -28,6 +28,7 @@ export default class App extends Component {
         position="Senior Frontend Engineer"
         mail="mantas.kaveckas@gmail.com"
         linkedin="https://www.linkedin.com/in/mantaskaveckas"
+        instagram="https://www.instagram.com/mantaskaveckas"
         twitterName="@kaveckas"
         twitter="https://twitter.com/kaveckas"
       />
